@@ -1,0 +1,6 @@
+https://www.educative.io/blog/6-dp-problems-to-solve-for-your-next-coding-interview
+https://www.educative.io/blog/google-coding-interview-questions
+https://www.educative.io/blog/top-cpp-coding-interview-questions
+https://www.geeksforgeeks.org/cpp-coding-interview-questions-and-answers/#Q1
+
+https://codeofcode.org/lessons/linked-lists-in-cpp/

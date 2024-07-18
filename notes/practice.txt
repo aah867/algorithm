@@ -1,0 +1,2 @@
+https://www.geeksforgeeks.org/load-factor-and-rehashing/?ref=lbp
+https://www.geeksforgeeks.org/top-50-string-coding-problems-for-interviews/
